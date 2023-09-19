@@ -1875,4 +1875,5 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service \
     manifest_android.hardware.drm@1.3-service.widevine \
     manifest_oplusSensor \
+    manifest_oplus_cameraextension_aidl \
     manifest_oplus_fingerprint
